@@ -7,7 +7,7 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
-  background: #FFF;;
+  background: #23252B;
 }
 p {
   line-height: 1.5;
@@ -97,8 +97,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
-  border-bottom: 1px solid #EAEAEA;
+  background: #171A1D;
+  border-bottom: 1px solid black;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 

@@ -5,7 +5,7 @@ title: About Me
 
 ### Education
 
-PhD, Computer Science, In Progress  
+PhD Candidate, Computer Science, In Progress  
 Clarkson University  
 Potsdam, NY
 

@@ -22,3 +22,10 @@ Utica, NY
 3 time Ironman Finisher
 
 ![Ironman](../img/ironman.png)
+
+
+### Father
+
+Proud father of 2!
+
+![Kids](../img/kids.jpg)

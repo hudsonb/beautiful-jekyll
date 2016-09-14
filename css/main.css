@@ -5,7 +5,7 @@
 body {
     font-family: 'Lora', 'Times New Roman', serif;
     font-size: 18px;
-    color: #E8EAEF;
+    color: #B0B1B8;
     position: relative;
     background: #2E3138;
 }
@@ -29,7 +29,7 @@ a:focus {
     color: #ED8237;
 }
 blockquote {
-    color: #E8EAEF;
+    color: #B0B1B8;
     font-style: italic;
 }
 blockquote p:first-child {
@@ -111,7 +111,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
     font-weight: 800;
-    color: #E8EAEF;
+    color: #B0B1B8;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -245,7 +245,7 @@ footer {
 }
 
 footer a {
-    color: #404040;
+    color: #6C6D72;
 }
 
 footer .list-inline {
@@ -293,7 +293,7 @@ footer .theme-by {
 
 .post-preview a {
     text-decoration: none;
-    color: #E8EAEF;
+    color: #B0B1B8;
 }
 
 .post-preview a:focus,
@@ -313,7 +313,7 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-    color: #808080;
+    color: #B0B1B8;
     font-size: 18px;
     font-style: italic;
     margin: 0 0 10px;

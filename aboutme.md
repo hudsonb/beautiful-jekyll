@@ -5,24 +5,16 @@ title: About Me
 
 ### Education
 
-PhD, Computer Science, In Progress
-
-Clarkson University
-
+PhD, Computer Science, In Progress  
+Clarkson University  
 Potsdam, NY
 
-
-Masters of Science, Computer Science, 2008
-
-State University of New York, Institute of Technology
-
+Masters of Science, Computer Science, 2008  
+State University of New York, Institute of Technology  
 Utica, NY
 
-
-Bachelors of Science, Computer Science, 2003
-
-State University of New York, Institute of Technology
-
+Bachelors of Science, Computer Science, 2003  
+State University of New York, Institute of Technology  
 Utica, NY
 
 ### Ironman

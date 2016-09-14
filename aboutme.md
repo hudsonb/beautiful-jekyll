@@ -20,3 +20,5 @@ Utica, NY
 ### Ironman
 
 3 time Ironman Finisher
+
+![Ironman](img/ironman.jpeg)

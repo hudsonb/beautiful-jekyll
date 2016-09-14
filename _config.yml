@@ -17,7 +17,7 @@ baseurl: ""
 title: "@hudsonb"
 
 # Short description of your site
-description: Research, Projects and other random things
+description: Projects, Research and other random things
 
 # --- Navigation bar options --- #
 
@@ -73,7 +73,7 @@ url-pretty: "hudsonb.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "hudsonb"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-52487378-1"

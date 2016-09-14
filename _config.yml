@@ -37,7 +37,7 @@ avatar: http://www.gravatar.com/avatar/c611f709789bc1cb2b3b37a0ff72f4c3?s=128
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Brian Hudson
+  name: @hudsonb
   email: "brian.r.hudson@gmail.com"
   github: hudsonb    # eg. daattali
   twitter: brianrhudson   # eg. daattali

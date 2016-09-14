@@ -521,7 +521,8 @@ footer .theme-by {
     padding: 10px 5px;
     background: #272A30;
     border-radius: 0;
-    color: #FFFFFF;
+    color: #87888E;
+    border: 1px solid #464A54
 }
 @media only screen and (min-width: 768px) {
     .pager li a {

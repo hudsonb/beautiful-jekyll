@@ -3,6 +3,13 @@ layout: page
 title: About Me
 ---
 
+### Professional
+
+Senior Engineer @ Assured information Security Inc.
+
+Adjunct Lecturer @ SUNY Poly
+
+
 ### Education
 
 PhD Candidate, Computer Science, In Progress  
@@ -28,4 +35,4 @@ Utica, NY
 
 Proud father of 2!
 
-![Kids](../img/kids.jpg)
+![Kids](../img/kids.png)
